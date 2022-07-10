@@ -4,7 +4,7 @@ import { Navbar, Nav, Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
 
-function Nav() {
+function Navigation() {
  
   return (
     <Navbar className="navbar" collapseOnSelect expand="lg" b="light" variant="light">
@@ -25,4 +25,4 @@ function Nav() {
 };
 
   
- export default Nav;
+ export default Navigation;

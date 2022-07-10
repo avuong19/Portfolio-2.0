@@ -4,16 +4,22 @@ import './App.css';
 import About from './components/About';
 import ContactForm from './components/Contact';
 import Project from './components/Project';
+import Resume from './components/Resume';
+import Header from './components/Header';
+import Footer from './components/Footer';
 // Bootstrap CSS
 import "bootstrap/dist/css/bootstrap.min.css";
 // Bootstrap Bundle JS
 import "bootstrap/dist/js/bootstrap.bundle.min";
 
+
 function App() {
+
   return (
-    
-    <Project></Project>
-    
+    <div >
+      <Header/>
+      <Footer/>
+    </div>
   );
 }
 

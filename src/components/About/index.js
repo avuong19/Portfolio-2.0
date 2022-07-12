@@ -3,6 +3,7 @@ import coverImage from '../../assets/img/biopic1.jpg';
 import "bootstrap/dist/css/bootstrap.css";
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
+import Image from 'react-bootstrap/Image'
 
 function About() {
         return (
@@ -10,19 +11,20 @@ function About() {
             <h1 id="about">About Me</h1>
             <div class="row">
                 <div class="col-sm-8">
-                <img src={coverImage}
-                        className="row justify-content-center" width="70%" height="70%" 
+                <Image src={coverImage}
+                        className="img-fluid rounded" width="70%" height="70%" 
                         alt="cover"/>
                 </div>
-                <div class="col-sm-4">col-sm-4
+                <div class="col-sm-4">
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex
-                                  condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna
-                                  mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum.
-                                  Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique
-                                  justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea
-                                  dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh.
-                                  Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
+                        HI, WELCOME TO MY PAGE
+                        
+                     
+                    </p>
+                    <p>
+                        My name is Anh Vuong. I am currently a QA Tester learning to code to become a software developer. I am taking a coding bootcamp class at the University of Texas, Austin. I am sufficient in both front end and back end. Some of my highlighted skills are: HTML,CSS, JavaScript, jQuery, React.js, Angular.js, IndexedDb, Node.js, Express.js, SQL, noSQL, APIs. Please take a look at my page. My contact are in the footer or under the contact tab. Thank you for visiting me!
+                        
+                     
                     </p>
                 </div>
             </div>

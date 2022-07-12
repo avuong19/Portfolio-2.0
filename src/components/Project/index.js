@@ -98,7 +98,7 @@ function Project() {
 
                 <Col>
                     <Card>
-                        <Card.Body>
+                        <Card.Body >
                             <Card.Text>
                                 <p>Weather Dashboard
                                 </p>

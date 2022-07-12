@@ -4,10 +4,11 @@ import { Navbar, Nav, Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
 
+
 function Navigation() {
  
   return (
-    <Navbar className="navbar" collapseOnSelect expand="lg" b="light" variant="light">
+    <Navbar className="navbar mainText " bg="warning" collapseOnSelect expand="lg"  >
       <Container>
       <Navbar.Brand href="/About">Anh Vuong</Navbar.Brand>
       <Navbar.Toggle aria-controls='responsive-navbar-nav' />

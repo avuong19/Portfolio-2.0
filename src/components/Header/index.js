@@ -9,8 +9,8 @@ import Resume from '../../components/Resume';
 class Header extends Component {   
     render() {
     return (
-        <div className="App">
-        <Router>
+        <div className="App"  >
+        <Router >
           <Navigation />
             <Routes>
               <Route path="/" element={<About />} />

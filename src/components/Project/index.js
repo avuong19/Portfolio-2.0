@@ -9,6 +9,8 @@ import theSpellBook from '../../assets/img/thespellbook.JPG';
 import workDaySchedule from '../../assets/img/workdayschedule.jfif';
 import passGen from '../../assets/img/passwordgen.JPG';
 import weatherDash from '../../assets/img/Capture.jfif';
+import artBoard from '../../assets/img/artboard.JPG';
+
 
 
 
@@ -29,6 +31,22 @@ function Project() {
                         </Card.Body>
                         <Card.Img variant="bottom"
                             src={gamerConnect}/>
+                    </Card>
+                </Col>
+
+                <Col>
+                    <Card>
+                        <Card.Body>
+                            <Card.Text>
+                                <p>Art Board
+                                </p>
+                                <div><a href="https://project-3-artboard.herokuapp.com/">Click here for deployed link</a></div>
+                                <a href="https://github.com/avuong19/project-3-artBoard">Click here for Git Repo</a>
+
+                            </Card.Text>
+                        </Card.Body>
+                        <Card.Img variant="bottom"
+                            src={artBoard}/>
                     </Card>
                 </Col>
 

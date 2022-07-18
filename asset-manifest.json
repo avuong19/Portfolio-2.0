@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/portfolio-2.0/static/css/main.f0447f43.css",
-    "main.js": "/portfolio-2.0/static/js/main.617ea328.js",
+    "main.js": "/portfolio-2.0/static/js/main.6eff19c6.js",
     "static/js/787.b597a222.chunk.js": "/portfolio-2.0/static/js/787.b597a222.chunk.js",
     "static/media/biopic1.jpg": "/portfolio-2.0/static/media/biopic1.e5318d74b3994e3c2c57.jpg",
     "static/media/gamerconnect.png": "/portfolio-2.0/static/media/gamerconnect.b159eb6a4c6168e9b87d.png",
     "static/media/thespellbook.JPG": "/portfolio-2.0/static/media/thespellbook.5a20644f37d13fceafc8.JPG",
     "static/media/Capture.jfif": "/portfolio-2.0/static/media/Capture.3f7e205a33963f7f0e95.jfif",
     "static/media/Anh Vuong_cv.pdf": "/portfolio-2.0/static/media/Anh Vuong_cv.3de359f55e068d178037.pdf",
+    "static/media/artboard.JPG": "/portfolio-2.0/static/media/artboard.63c9dfa79f8affd5f98e.JPG",
     "static/media/workdayschedule.jfif": "/portfolio-2.0/static/media/workdayschedule.e5d44825a9b7791eaeaa.jfif",
     "static/media/notetaker.JPG": "/portfolio-2.0/static/media/notetaker.cd5c8f7181551c96ed36.JPG",
     "static/media/passwordgen.JPG": "/portfolio-2.0/static/media/passwordgen.8dc5a6dd4d9c18a0f713.JPG",
     "static/media/logo.svg": "/portfolio-2.0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio-2.0/index.html",
     "main.f0447f43.css.map": "/portfolio-2.0/static/css/main.f0447f43.css.map",
-    "main.617ea328.js.map": "/portfolio-2.0/static/js/main.617ea328.js.map",
+    "main.6eff19c6.js.map": "/portfolio-2.0/static/js/main.6eff19c6.js.map",
     "787.b597a222.chunk.js.map": "/portfolio-2.0/static/js/787.b597a222.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0447f43.css",
-    "static/js/main.617ea328.js"
+    "static/js/main.6eff19c6.js"
   ]
 }

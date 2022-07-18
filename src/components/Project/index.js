@@ -40,7 +40,7 @@ function Project() {
                             <Card.Text>
                                 <p>Art Board
                                 </p>
-                                <div><a href="https://project-3-artboard.herokuapp.com/">Click here for deployed link</a></div>
+                                <div><a href="https://gentle-scrubland-59381.herokuapp.com/">Click here for deployed link</a></div>
                                 <a href="https://github.com/avuong19/project-3-artBoard">Click here for Git Repo</a>
 
                             </Card.Text>
